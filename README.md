@@ -57,6 +57,3 @@ Database connection properties are specified in the `application.properties` fil
 
 The Recipe Management System API offers comprehensive recipe management, user account management, and comment functionality. It adheres to best practices for clean code, secure data handling, and RESTful API design.
 
----
-
-Feel free to customize and expand this README based on your project's specific details and requirements.
